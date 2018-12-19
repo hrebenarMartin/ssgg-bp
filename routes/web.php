@@ -17,5 +17,6 @@ Route::get('/', function (){
     echo "HOJ";
     echo "Mas sa?";
     echo "Ano, ty?";
+    echo "Nie";
 })->name('home');
 
