@@ -15,5 +15,6 @@ Auth::routes();
 
 Route::get('/', function (){
     echo "HOJ";
+    echo "Mas sa?";
 })->name('home');
 
