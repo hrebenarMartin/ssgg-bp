@@ -20,4 +20,25 @@ Route::get('/', function (){
     echo "Nie";
 })->name('home');
 
-Route::post('//');
+Route::post('/', function (){
+    echo "HOJ";
+    echo "Mas sa?";
+    echo "Ano, ty?";
+    echo "Nie";
+    echo "HOJ";
+    echo "Mas sa?";
+    echo "Ano, ty?";
+    echo "Nie";
+    echo "HOJ";
+    echo "Mas sa?";
+    echo "Ano, ty?";
+    echo "Nie";
+    echo "HOJ";
+    echo "Mas sa?";
+    echo "Ano, ty?";
+    echo "Nie";
+    echo "HOJ";
+    echo "Mas sa?";
+    echo "Ano, ty?";
+    echo "Nie";
+})->name('home');
