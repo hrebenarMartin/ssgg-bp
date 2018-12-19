@@ -20,4 +20,4 @@ Route::get('/', function (){
     echo "Nie";
 })->name('home');
 
-Route::get('//');
+Route::post('//');
